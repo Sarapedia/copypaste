@@ -1,0 +1,3 @@
+# copypaste
+
+Write everything down!
